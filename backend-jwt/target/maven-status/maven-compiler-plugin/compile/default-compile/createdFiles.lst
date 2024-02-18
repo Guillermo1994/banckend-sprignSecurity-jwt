@@ -1,0 +1,4 @@
+gramirez\demojwt\ConfigSecurity\SecurityConfig.class
+gramirez\demojwt\Auth\AuthController.class
+gramirez\demojwt\Usuario\UsuarioController.class
+gramirez\demojwt\DemoJwtApplication.class
